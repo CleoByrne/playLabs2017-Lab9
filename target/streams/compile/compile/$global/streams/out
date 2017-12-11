@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\User\Documents\web+mobile\WWDD1Lab9CRUD\app\controllers\HomeController.java:63:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable newProduct[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.HomeController[0m
+[0m[[0m[31merror[0m] [0m[0m            flash("success","Product " + newProduct.getName() + " was added");[0m
